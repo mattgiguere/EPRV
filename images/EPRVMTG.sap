@@ -1,0 +1,40 @@
+{
+  "name" : "EPRVMTG ",
+  "colors" : [
+    {
+      "red" : "1.00000",
+      "alpha" : "1.00000",
+      "name" : "Cape Honey",
+      "blue" : "0.66275",
+      "green" : "0.88627"
+    },
+    {
+      "red" : "0.29412",
+      "alpha" : "1.00000",
+      "name" : "Shakespeare",
+      "blue" : "0.84706",
+      "green" : "0.64314"
+    },
+    {
+      "red" : "0.46275",
+      "alpha" : "1.00000",
+      "name" : "Rolling Stone",
+      "blue" : "0.52157",
+      "green" : "0.50196"
+    },
+    {
+      "red" : "0.74902",
+      "alpha" : "1.00000",
+      "name" : "Grenadier",
+      "blue" : "0.21961",
+      "green" : "0.32549"
+    },
+    {
+      "red" : "0.20000",
+      "alpha" : "1.00000",
+      "name" : "Endeavour",
+      "blue" : "0.56078",
+      "green" : "0.35686"
+    }
+  ]
+}
