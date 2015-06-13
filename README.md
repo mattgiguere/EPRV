@@ -9,5 +9,5 @@ The code used to create the nametags can be found in the [manipulate_regonline I
 
 This code outputs all the nametags in the Avery 5392 format to be printed and punched out. Below is the first page.
 
-![EPRV Nametags](https://raw.githubusercontent.com/mattgiguere/EPRV/master/images/testTags_bold.png)
+![EPRV Nametags](https://raw.githubusercontent.com/mattgiguere/EPRV/master/nametags/nameTags_bold_p0.png)
 
